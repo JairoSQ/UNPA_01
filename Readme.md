@@ -9,3 +9,5 @@
 * Daniela Márquez <danilalokags@gmail.com>
 
 * Facundo Chancel <facundo.chancel@ypf.com>
+
+* Bruno Chaves <brunon1394@gmail.com>
